@@ -10,6 +10,9 @@ An interactive Power BI data analytics project evaluating 20,000 traffic acciden
 ## 🎯 Project Objective
 The objective of this project is to analyze historical road traffic accident data to identify high-risk zones, assess casualty patterns, and determine how factors such as driver behavior, road infrastructure, and weather conditions contribute to crash frequency and severity. The resulting Power BI dashboard enables interactive exploration to help traffic authorities and planners make data-driven safety decisions.
 
+## 📊 Dashboard Preview
+![Road Accident Analysis Dashboard](./dashboard_preview.png.png)
+
 ## 📂 Dataset Used
 * **Dataset File**: [`road accident.csv`](https://github.com/prathiba076/Data-Analysis-Dashboard/blob/main/road%20accident.csv)
 * **Power BI File**: [`road accident analysis.pbix`](https://github.com/prathiba076/Data-Analysis-Dashboard/blob/main/road%20accident%20analysis.pbix)
